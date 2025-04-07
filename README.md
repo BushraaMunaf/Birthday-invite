@@ -1,6 +1,6 @@
-# Birthday-invite
+#Birthday-invite
 
-Welcome the **birthday invite** project1 This project uses html for complete functonality.
+Welcome the **birthday invite** project! This project uses html for complete functonality.
 
 ##Folder Structure:
 ...
